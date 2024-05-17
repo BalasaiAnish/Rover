@@ -11,9 +11,12 @@ A mini project by Astra Robotics utilising STM32, ROS2
 ### Tasks completed:
 
 ## Issues
-1. Unable to publish wheel encoder position using microros
+None :)
 
 ## Updates
 
 ### Version 1.0.0 (Current)
   -> Created GitHub page
+  -> Interfaced wheel encoders using interrupts
+  -> Used HAL I2c functions to acquire IMU data
+  -> Publisher of wheel enoder data complete
