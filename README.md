@@ -5,9 +5,8 @@ A mini project by Astra Robotics utilising STM32, ROS2
 ## Progress
 
 ### Tasks remaining:
-1. Interface IMU with STM32 using I2C
-2. Interface wheel encoders using interrupts using SMT32 
-3. Use microros to publish acquired data to a Ubuntu environment
+1. Interface IMU with STM32 using I2C (Testing required)
+2. Use microros to publish acquired data to a Ubuntu environment (Publishing IMU data remaining)
 
 ### Tasks completed:
 
